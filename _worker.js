@@ -71,6 +71,7 @@ let addressesnotls = [
 // 设置优选noTLS地址api接口
 let addressesnotlsapi = [
 	//'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt',
+	'https://text2kv.zwjlee70.workers.dev/ipv4.txt?token=19781219'
 ];
 
 let DLS = 7;//速度下限
